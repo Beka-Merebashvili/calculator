@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Globalstyles from './styled-components/GlobalStyles'
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-     
+     <Globalstyles />
     </>
   )
 }
