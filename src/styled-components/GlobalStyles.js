@@ -9,7 +9,9 @@ const Globalstyles = createGlobalStyle`
     font-family: 'Space Grotesk', sans-serif;
 }
 body {
-    background: green
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    /* background: linear-gradient(to right, #3ead8e, #f26b57); */
+ 
 }
 `
 
