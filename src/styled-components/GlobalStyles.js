@@ -6,12 +6,10 @@ const Globalstyles = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Pacifico', cursive;
 }
 body {
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
-    /* background: linear-gradient(to right, #3ead8e, #f26b57); */
- 
+    background-image: linear-gradient(to left, #0e7470, #006d87, #00619d);
 }
 `
 
