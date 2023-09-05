@@ -6,12 +6,11 @@ const Globalstyles = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 body {
-    background-image: linear-gradient(to left, #0e7470, #006d87, #00619d);
+    background-image: linear-gradient(to left, #0e7470, #006d87, #00617d);
 }
-`
+`;
 
-export default Globalstyles
-
+export default Globalstyles;

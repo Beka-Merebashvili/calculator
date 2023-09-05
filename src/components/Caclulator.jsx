@@ -193,9 +193,9 @@ const Container = styled.div`
     background-color: rgba(255, 255, 255, 0.75);
   }
 
-  button:hover,
-  button:focus {
+  button:hover  {
     background-color: rgba(255, 255, 255, 0.9);
+    transition: 0.3s;
   }
   .span-two {
     grid-column: span 2;
