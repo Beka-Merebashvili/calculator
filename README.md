@@ -19,8 +19,8 @@ Explain the structure of your project's folders and files. For example:
 
 - `src/`: Contains the main source code files.
 - `components/`: Contains React components used in the application.
-- `App.tsx`: The root component of the application.
-- `main.tsx`: Entry point of the application.
+- `App.jsx`: The root component of the application.
+- `main.jsx`: Entry point of the application.
 
 
 ## Links
